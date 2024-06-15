@@ -35,6 +35,13 @@ Steps:
 
 This will automatically launch the project in your default web browser. 😁
 
+### Todos
+
+1. Add a buy button that opens a buy request form
+2. Add a warning toaster saying that the service is offline
+
+###
+
 ### license
 
 [MIT](https://choosealicense.com/licenses/mit/)
